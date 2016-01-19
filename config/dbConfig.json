@@ -1,0 +1,13 @@
+{
+	"user"     : "test-user",
+    "password" : "qazwsx",
+    "database" : "test-task",
+    "options"  :
+    {
+        "host"     : "127.0.0.1",
+        "port"     : 3306,
+        "dialect"  : "mysql",
+        "charset"  : "utf8"
+        
+    }
+}
